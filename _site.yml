@@ -5,7 +5,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Page 2"
+      href: page2.html
   right:
     - text: "Github"
       icon: fa-github
-      href: https://github.com/
+      href: https://github.com/Derek-Borders
